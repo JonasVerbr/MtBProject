@@ -1,0 +1,52 @@
+.bg {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    position:fixed;
+    margin-top: -6%;
+    z-index: -1;
+    filter: blur(6px);
+}
+
+.card{
+    margin-top: 5%;
+}
+
+.stravaBut{
+    background-color: orangered;
+    border-color: orangered;
+    color: white!important;
+    
+}
+.stravaBut:hover{
+    background-color: orange!important;
+    border-color: orangered!important;
+}
+.stravaBut:focus{
+    background-color: orangered;
+    border-color: orangered;
+    color: white!important;
+}
+.scoreboard{
+    margin-left: 3%;
+    text-align: center;
+}
+.tableBut{
+    font-size: 70%;
+}
+.editBut{
+    background-color: rgba(14,72,100,1);
+    border-color: rgba(14,72,100,1);
+    margin-left: 90%;
+    margin-top: 1%;
+}
+.editBut:hover{
+    background-color: rgb(30, 97, 131);
+    border-color: rgb(30, 97, 131);
+}
+.editBut:focus {
+    background-color: rgba(14,72,100,1);
+    border-color: rgba(14,72,100,1);
+  }
+

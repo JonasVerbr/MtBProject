@@ -1,0 +1,49 @@
+body{
+    background-color: white;
+    
+    
+}
+
+.navigationBarSoftAtHome{
+    background-color: rgba(14,72,100,1)!important; 
+    /*box-shadow: grey 3px 3px 5px!important;*/
+}
+
+.custom{
+    color: white!important;
+    font-size: 2.3vh;
+}
+.custom:hover{
+    cursor: pointer;
+}
+
+#myVideo {
+    position:fixed;
+    z-index: -1;
+    width:140%;     
+    height: auto;
+    margin-left:-20%;
+}
+
+.centerCard{
+    margin-top: 4%;
+    opacity: .6;
+}
+
+#ErrorMessage{
+    visibility: hidden;
+    color: orangered;
+    font-weight: bold;
+}
+
+.userInfo{
+    margin-top: 5%;
+    margin-left: 2%;
+}
+  
+
+
+
+
+
+
